@@ -32,7 +32,6 @@
         <span id="themeText">Dark mode</span>
       </button>
     </nav>
-
     <header id="home" class="mx-auto max-w-6xl px-6 py-20 text-center">
       <p class="text-sm uppercase tracking-[0.4em] text-brand/80">Web developer & UI enthusiast</p>
       <h1 class="mt-6 text-5xl font-bold tracking-tight text-white sm:text-6xl">
@@ -81,7 +80,6 @@
         </div>
       </div>
     </section>
-
     <section id="skills" class="mt-12 space-y-8">
       <div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
@@ -116,7 +114,6 @@
         </div>
       </div>
     </section>
-
     <section id="projects" class="mt-16">
       <div class="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
         <div>
@@ -147,7 +144,6 @@
         </article>
       </div>
     </section>
-
     <section id="contact" class="mt-16 rounded-3xl border border-slate-800 bg-slate-900/90 p-8 text-slate-100 shadow-xl shadow-slate-900/30 sm:p-10">
       <div class="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
         <div>
@@ -163,7 +159,6 @@
   <footer class="border-t border-slate-800 bg-slate-950 py-6 text-center text-slate-500">
     © 2026 Ganesh savale. Built with Tailwind CSS.
   </footer>
-
   <script src="javasscript.js"></script>
 </body>
 </html>
